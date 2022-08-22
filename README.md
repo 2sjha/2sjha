@@ -9,15 +9,15 @@
           | ▓▓▓    \▓▓▓ ▓▓     \ ▓▓     \\▓▓    ▓▓\▓▓    ▓▓ ▓▓  \▓ | ▓▓ ▓▓     \       | ▓▓   \▓▓    ▓▓
            \▓▓      \▓▓\▓▓▓▓▓▓▓▓\▓▓▓▓▓▓▓▓ \▓▓▓▓▓▓  \▓▓▓▓▓▓ \▓▓      \▓▓\▓▓▓▓▓▓▓▓        \▓▓    \▓▓▓▓▓▓ 
 
-                   __       __ __      __       ______  ______ ________ __    __ __    __ _______  
-                  |  \     /  \  \    /  \     /      \|      \        \  \  |  \  \  |  \       \ 
-                  | ▓▓\   /  ▓▓\▓▓\  /  ▓▓    |  ▓▓▓▓▓▓\\▓▓▓▓▓▓\▓▓▓▓▓▓▓▓ ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓▓▓▓▓▓\
-                  | ▓▓▓\ /  ▓▓▓ \▓▓\/  ▓▓     | ▓▓ __\▓▓ | ▓▓    | ▓▓  | ▓▓__| ▓▓ ▓▓  | ▓▓ ▓▓__/ ▓▓
-                  | ▓▓▓▓\  ▓▓▓▓  \▓▓  ▓▓      | ▓▓|    \ | ▓▓    | ▓▓  | ▓▓    ▓▓ ▓▓  | ▓▓ ▓▓    ▓▓
-                  | ▓▓\▓▓ ▓▓ ▓▓   \▓▓▓▓       | ▓▓ \▓▓▓▓ | ▓▓    | ▓▓  | ▓▓▓▓▓▓▓▓ ▓▓  | ▓▓ ▓▓▓▓▓▓▓\
-                  | ▓▓ \▓▓▓| ▓▓   | ▓▓        | ▓▓__| ▓▓_| ▓▓_   | ▓▓  | ▓▓  | ▓▓ ▓▓__/ ▓▓ ▓▓__/ ▓▓
-                  | ▓▓  \▓ | ▓▓   | ▓▓         \▓▓    ▓▓   ▓▓ \  | ▓▓  | ▓▓  | ▓▓\▓▓    ▓▓ ▓▓    ▓▓
-                   \▓▓      \▓▓    \▓▓          \▓▓▓▓▓▓ \▓▓▓▓▓▓   \▓▓   \▓▓   \▓▓ \▓▓▓▓▓▓ \▓▓▓▓▓▓▓ 
+                  __       __ __      __       ______  ______ ________ __    __ __    __ _______  
+                 |  \     /  \  \    /  \     /      \|      \        \  \  |  \  \  |  \       \ 
+                 | ▓▓\   /  ▓▓\▓▓\  /  ▓▓    |  ▓▓▓▓▓▓\\▓▓▓▓▓▓\▓▓▓▓▓▓▓▓ ▓▓  | ▓▓ ▓▓  | ▓▓ ▓▓▓▓▓▓▓\
+                 | ▓▓▓\ /  ▓▓▓ \▓▓\/  ▓▓     | ▓▓ __\▓▓ | ▓▓    | ▓▓  | ▓▓__| ▓▓ ▓▓  | ▓▓ ▓▓__/ ▓▓
+                 | ▓▓▓▓\  ▓▓▓▓  \▓▓  ▓▓      | ▓▓|    \ | ▓▓    | ▓▓  | ▓▓    ▓▓ ▓▓  | ▓▓ ▓▓    ▓▓
+                 | ▓▓\▓▓ ▓▓ ▓▓   \▓▓▓▓       | ▓▓ \▓▓▓▓ | ▓▓    | ▓▓  | ▓▓▓▓▓▓▓▓ ▓▓  | ▓▓ ▓▓▓▓▓▓▓\
+                 | ▓▓ \▓▓▓| ▓▓   | ▓▓        | ▓▓__| ▓▓_| ▓▓_   | ▓▓  | ▓▓  | ▓▓ ▓▓__/ ▓▓ ▓▓__/ ▓▓
+                 | ▓▓  \▓ | ▓▓   | ▓▓         \▓▓    ▓▓   ▓▓ \  | ▓▓  | ▓▓  | ▓▓\▓▓    ▓▓ ▓▓    ▓▓
+                  \▓▓      \▓▓    \▓▓          \▓▓▓▓▓▓ \▓▓▓▓▓▓   \▓▓   \▓▓   \▓▓ \▓▓▓▓▓▓ \▓▓▓▓▓▓▓ 
 
 ```
 
@@ -32,15 +32,18 @@
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=2sjha&show_icons=true&theme=dark&hide_border=True&layout=compact&hide_title=False)
 
 ### Technical Skills
+#### Languages
 ![Java](https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 <br>
+#### Front-end
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![React Native](https://img.shields.io/badge/react--native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
 <br>
+#### Back-end
 ![Spring Boot](https://img.shields.io/badge/Spring--Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
@@ -50,6 +53,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 <br>
+#### Databases
 ![MongoDB](https://img.shields.io/badge/mongo-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Cassandra](https://img.shields.io/badge/cassandra-1287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
