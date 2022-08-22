@@ -31,7 +31,8 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sjha&layout=compact&theme=dark&hide_border=True)](https://github.com/2sjha)
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=2sjha&show_icons=true&theme=dark&hide_border=True&layout=compact&hide_title=False)
 
-### Technical Skills
+
+### Technical Skills <hr>
 #### Languages
 ![Java](https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
