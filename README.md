@@ -32,6 +32,7 @@
 ![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=2sjha&show_icons=true&theme=dark&hide_border=True&layout=compact&hide_title=False)
 
 ### Technical Skills
+![Java](https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
@@ -42,4 +43,14 @@
 <br>
 ![Spring Boot](https://img.shields.io/badge/Spring--Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Apache ActiveMQ](https://img.shields.io/badge/Apache%20ActiveMQ-blue.svg?style=for-the-badge&logo=apache-activemq&logoColor=white)
+![AWS IoT](https://img.shields.io/badge/AWS%20IoT-blue.svg?style=for-the-badge&logo=awsiot&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+<br>
+![MongoDB](https://img.shields.io/badge/mongo-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Cassandra](https://img.shields.io/badge/cassandra-1287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
