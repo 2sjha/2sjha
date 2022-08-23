@@ -25,7 +25,10 @@
 - 🌱 I’m always trying learn new things in System design and ofcourse anything else that comes my way.
 - 👯 I’m looking to collaborate on any fun ideas/projects.
 - 🤝 How to connect with me: [![shubhamshekhar.jha@utdallas.edu](https://img.shields.io/badge/-shubhamshekhar.jha@utdallas.edu-blue?&style=flat-square&logo=maildotru&logoColor=white&link=mailto://shubhamshekhar.jha@utdallas.edu)](mailto://shubhamshekhar.jha@utdallas.edu) | [![Linkedin: shubhamshekharjha](https://img.shields.io/badge/-shubhamshekharjha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamshekharjha/)](https://www.linkedin.com/in/shubhamshekharjha/)
+
+<!---
 - 😄 Here's my portfolio website: [![2sjha.github.io](https://img.shields.io/badge/-2sjha.github.io-blue?&style=flat-square&logo=Firefox&logoColor=white&link=https://2sjha.github.io/)](https://2sjha.github.io)
+--->
 <br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sjha&layout=compact&theme=dark&hide_border=True)](https://github.com/2sjha)
