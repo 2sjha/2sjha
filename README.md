@@ -25,12 +25,11 @@
 - 🌱 I’m always trying to learn new things in System design and ofcourse anything else that comes my way.
 - 👯 I’m looking to collaborate on any fun ideas/projects.
 - 🤝 How to connect with me: [![shubhamshekhar.jha@utdallas.edu](https://img.shields.io/badge/-shubhamshekhar.jha@utdallas.edu-blue?&style=flat-square&logo=maildotru&logoColor=white&link=mailto://shubhamshekhar.jha@utdallas.edu)](mailto://shubhamshekhar.jha@utdallas.edu) | [![Linkedin: shubhamshekharjha](https://img.shields.io/badge/-shubhamshekharjha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamshekharjha/)](https://www.linkedin.com/in/shubhamshekharjha/)
-- 😄 I'm an amateur graphic designer, motion graphics animator & video editor as well. Here's my art portfolio website: [![shubhamjha.myportfolio.com](https://img.shields.io/badge/-shubhamjha.myportfolio.com-red?&style=flat-square&logo=Firefox&logoColor=white&link=https://shubhamjha.myportfolio.com)](https://shubhamjha.myportfolio.com)
+- 😄 I'm an amateur graphic designer, motion graphics animator & video editor as well. Here's my art portfolio website: [![shubhamjha.myportfolio.com](https://img.shields.io/badge/-shubhamjha.myportfolio.com-red?&style=flat-square&logo=Firefox&logoColor=white&link=https://shubhamjha.myportfolio.com)](https://shubhamjha.myportfolio.com) <br>
+
+### Projects <hr>
+#### [Khwish](https://gist.github.com/2sjha/b9012f396290bf3b8ebfc2b89fcd01c4) - A Community Funding Platform consisting of an Anroid app, a React website, a Spring Boot backend.
 <br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sjha&layout=compact&theme=dark&hide_border=True)](https://github.com/2sjha)
-![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=2sjha&show_icons=true&theme=dark&hide_border=True&layout=compact&hide_title=False)
-
 
 ### Technical Skills <hr>
 #### Languages
@@ -59,3 +58,7 @@
 ![Cassandra](https://img.shields.io/badge/cassandra-1287B1.svg?style=for-the-badge&logo=apachecassandra&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
+<hr>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2sjha&layout=compact&theme=dark&hide_border=True)](https://github.com/2sjha)
+![Shubham's GitHub stats](https://github-readme-stats.vercel.app/api?username=2sjha&show_icons=true&theme=dark&hide_border=True&layout=compact&hide_title=False)
