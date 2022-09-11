@@ -13,7 +13,7 @@
 - 🔭 I’m currently pursuing my MS in CS at UT Dallas.
 - 🌱 I’m always trying to learn new things in System design and ofcourse anything else that comes my way.
 - 👯 I’m looking to collaborate on any fun ideas/projects.
-- 🤝 How to connect with me: [![shubhamshekhar.jha@utdallas.edu](https://img.shields.io/badge/-shubhamshekhar.jha@utdallas.edu-blue?&style=flat-square&logo=maildotru&logoColor=white&link=mailto://shubhamshekhar.jha@utdallas.edu)](mailto://shubhamshekhar.jha@utdallas.edu) | [![Linkedin: shubhamshekharjha](https://img.shields.io/badge/-shubhamshekharjha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamshekharjha/)](https://www.linkedin.com/in/shubhamshekharjha/)
+- 🤝 How to connect with me: [![jhashubhamshekhar@gmail.com](https://img.shields.io/badge/-jhashubhamshekhar@gmail.com-blue?&style=flat-square&logo=maildotru&logoColor=white&link=mailto://jhashubhamshekhar@gmail.com)](mailto://jhashubhamshekhar@gmail.com) | [![Linkedin: shubhamshekharjha](https://img.shields.io/badge/-shubhamshekharjha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamshekharjha/)](https://www.linkedin.com/in/shubhamshekharjha/)
 - 😄 I'm an amateur graphic designer, motion graphics animator & video editor as well. Here's my art portfolio website: [![shubhamjha.myportfolio.com](https://img.shields.io/badge/-shubhamjha.myportfolio.com-red?&style=flat-square&logo=Firefox&logoColor=white&link=https://shubhamjha.myportfolio.com)](https://shubhamjha.myportfolio.com) <br>
 
 ### Projects <hr>
