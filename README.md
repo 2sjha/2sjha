@@ -17,7 +17,7 @@
 - 😄 I'm an amateur graphic designer, motion graphics animator & video editor as well. Here's my art portfolio website: [![shubhamjha.myportfolio.com](https://img.shields.io/badge/-shubhamjha.myportfolio.com-red?&style=flat-square&logo=Firefox&logoColor=white&link=https://shubhamjha.myportfolio.com)](https://shubhamjha.myportfolio.com) <br>
 
 ### Projects <hr>
-#### [Khwish](https://gist.github.com/2sjha/b9012f396290bf3b8ebfc2b89fcd01c4) - A Community Funding Platform consisting of an Anroid app, a React website, a Spring Boot backend.
+#### [Khwish](https://gist.github.com/2sjha/b9012f396290bf3b8ebfc2b89fcd01c4) - A Community Funding Platform consisting of an [Anroid app](https://github.com/2sjha/khwish-app), a [React website](https://github.com/2sjha/khwish-web), and a [Spring Boot backend](https://github.com/2sjha/khwish-backend).
 <br>
 
 ### Technical Skills <hr>
