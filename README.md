@@ -11,21 +11,25 @@
 ```
 
 - 🔭 I’m currently pursuing my MS in CS at UT Dallas.
-- 🌱 I’m always trying to learn new things in System design and ofcourse anything else that comes my way.
-- 👯 I’m looking to collaborate on any fun ideas/projects.
-- 🤝 How to connect with me: [![jhashubhamshekhar@gmail.com](https://img.shields.io/badge/-jhashubhamshekhar@gmail.com-blue?&style=flat-square&logo=maildotru&logoColor=white&link=mailto://jhashubhamshekhar@gmail.com)](mailto://jhashubhamshekhar@gmail.com) | [![Linkedin: shubhamshekharjha](https://img.shields.io/badge/-shubhamshekharjha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamshekharjha/)](https://www.linkedin.com/in/shubhamshekharjha/)
-- 😄 I'm an amateur graphic designer, motion graphics animator & video editor as well. Here's my art portfolio website: [![shubhamjha.myportfolio.com](https://img.shields.io/badge/-shubhamjha.myportfolio.com-red?&style=flat-square&logo=Firefox&logoColor=white&link=https://shubhamjha.myportfolio.com)](https://shubhamjha.myportfolio.com) <br>
+- 💡 I love writing low-level code in C++ and Rust. I'm currently learning Rust and having fun with it.
+- 🧑‍💻 I also enjoy building Full-Stack web apps, mainly with Java and React.
+- 🤝 I’m looking to collaborate on any fun ideas/projects. React out here: [![jhashubhamshekhar@gmail.com](https://img.shields.io/badge/-jhashubhamshekhar@gmail.com-blue?&style=flat-square&logo=maildotru&logoColor=white&link=mailto://jhashubhamshekhar@gmail.com)](mailto://jhashubhamshekhar@gmail.com) | [![Linkedin: shubhamshekharjha](https://img.shields.io/badge/-shubhamshekharjha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamshekharjha/)](https://www.linkedin.com/in/shubhamshekharjha/)
+- 👨‍🎨 I'm an amateur graphic designer, motion graphics animator & video editor as well. Here's my art portfolio website: [![shubhamjha.myportfolio.com](https://img.shields.io/badge/-shubhamjha.myportfolio.com-red?&style=flat-square&logo=Firefox&logoColor=white&link=https://shubhamjha.myportfolio.com)](https://shubhamjha.myportfolio.com) <br>
 
 ### Projects <hr>
 #### [Khwish](https://gist.github.com/2sjha/b9012f396290bf3b8ebfc2b89fcd01c4) - A Community Funding Platform consisting of an [Anroid app](https://github.com/2sjha/khwish-app), a [React website](https://github.com/2sjha/khwish-web), and a [Spring Boot backend](https://github.com/2sjha/khwish-backend).
+#### [Mini P2P File Sharing application](https://github.com/2sjha/mini-p2p-file-sharing) written in C++. All peers communicate via TCP sockets, support searching for files via keyword & filenames. 
+#### [Simulated OS](https://github.com/2sjha/sim-os-rs) written in Rust. The Sim-OS has a round robin scheduler and a simulated printer connected via TCP socket. This project is a rewrite of the [same project written in C](https://github.com/2sjha/sim-os).
+#### [Data Structure and Algorithm problems](https://github.com/2sjha/ds-a) I've solved. Prominently [Blind-75](https://www.techinterviewhandbook.org/grind75) problemset.
 <br>
 
 ### Technical Skills <hr>
 #### Languages
 ![Java](https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br>
 #### Front-end
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
