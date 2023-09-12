@@ -19,7 +19,7 @@
 ### Projects <hr>
 #### [Khwish](https://gist.github.com/2sjha/b9012f396290bf3b8ebfc2b89fcd01c4) - A Community Funding Platform consisting of an [Anroid app](https://github.com/2sjha/khwish-app), a [React website](https://github.com/2sjha/khwish-web), and a [Spring Boot backend](https://github.com/2sjha/khwish-backend).
 #### [Mini P2P File Sharing application](https://github.com/2sjha/mini-p2p-file-sharing) written in C++. All peers communicate via TCP sockets, support searching for files via keyword & filenames. 
-#### [Simulated OS](https://github.com/2sjha/sim-os-rs) written in Rust. The Sim-OS has a round robin scheduler and a simulated printer connected via TCP socket. This project is a rewrite of the [same project written in C](https://github.com/2sjha/sim-os).
+#### [Simulated OS](https://github.com/2sjha/sim-os-rs) written in Rust. The Sim-OS has a round robin scheduler and a simulated printer connected via TCP socket. This was a [CS5348 OS course project, originally written in C](https://github.com/2sjha/sim-os).
 #### [Data Structure and Algorithm problems](https://github.com/2sjha/ds-a) I've solved. Prominently [Blind-75](https://www.techinterviewhandbook.org/grind75) problemset.
 <br>
 
