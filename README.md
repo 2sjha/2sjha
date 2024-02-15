@@ -17,24 +17,25 @@
 - 👨‍🎨 I'm an amateur graphic designer, motion graphics animator & video editor as well. Here's my art portfolio website: [![shubhamjha.myportfolio.com](https://img.shields.io/badge/-shubhamjha.myportfolio.com-red?&style=flat-square&logo=Firefox&logoColor=white&link=https://shubhamjha.myportfolio.com)](https://shubhamjha.myportfolio.com) <br>
 
 ### Projects <hr>
+#### [Leetcode Boilerplate Generator](https://github.com/2sjha/leetcode-boilerplate-generator), written in Rust, automatically generates boilerplate code for Leetcode problems using example inputs and outputs, enabling local debugging without relying on the website's paywalled debugger.
 #### [Khwish](https://gist.github.com/2sjha/b9012f396290bf3b8ebfc2b89fcd01c4) - A Community Funding Platform consisting of an [Anroid app](https://github.com/2sjha/khwish-app), a [React website](https://github.com/2sjha/khwish-web), and a [Spring Boot backend](https://github.com/2sjha/khwish-backend).
 #### [Mini P2P File Sharing application](https://github.com/2sjha/mini-p2p-file-sharing) written in C++. All peers communicate via TCP sockets, support searching for files via keyword & filenames. 
 #### [Simulated OS](https://github.com/2sjha/sim-os-rs) written in Rust. The Sim-OS has a round robin scheduler and a simulated printer connected via TCP socket. This was a [CS5348 OS course project, originally written in C](https://github.com/2sjha/sim-os).
-#### [Data Structure and Algorithm problems](https://github.com/2sjha/ds-a) I've solved. Prominently [Blind-75](https://www.techinterviewhandbook.org/grind75) problemset.
+#### [Data Structure and Algorithm problems](https://github.com/2sjha/ds-a) I've solved. Prominently [Grind-75](https://www.techinterviewhandbook.org/grind75) problemset.
 <br>
 
 ### Technical Skills <hr>
 #### Languages
 ![Java](https://img.shields.io/badge/Java-3a75b0?style=for-the-badge&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 <br>
 #### Front-end
 ![React](https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
-![React Native](https://img.shields.io/badge/react--native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=android&logoColor=white)
+![React Native](https://img.shields.io/badge/react--native-61DAFB.svg?style=for-the-badge&logo=react&logoColor=white)
 <br>
 #### Back-end
 ![Spring Boot](https://img.shields.io/badge/Spring--Boot-6DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
