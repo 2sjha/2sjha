@@ -13,15 +13,17 @@
 - 🔭 I’m currently pursuing my MS in CS at UT Dallas.
 - 💡 I love writing low-level code in C++ and Rust. I'm currently learning Rust and having fun with it.
 - 🧑‍💻 I also enjoy building Full-Stack web apps, mainly with Java and React.
+- 🧠 I am also learning to implement various ML, AI and NLP agorithms. 
 - 🤝 I’m looking to collaborate on any fun ideas/projects. React out here: [![jhashubhamshekhar@gmail.com](https://img.shields.io/badge/-jhashubhamshekhar@gmail.com-blue?&style=flat-square&logo=maildotru&logoColor=white&link=mailto://jhashubhamshekhar@gmail.com)](mailto://jhashubhamshekhar@gmail.com) | [![Linkedin: shubhamshekharjha](https://img.shields.io/badge/-shubhamshekharjha-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/shubhamshekharjha/)](https://www.linkedin.com/in/shubhamshekharjha/)
 - 👨‍🎨 I'm an amateur graphic designer, motion graphics animator & video editor as well. Here's my art portfolio website: [![shubhamjha.myportfolio.com](https://img.shields.io/badge/-shubhamjha.myportfolio.com-red?&style=flat-square&logo=Firefox&logoColor=white&link=https://shubhamjha.myportfolio.com)](https://shubhamjha.myportfolio.com) <br>
 
 ### Projects <hr>
 #### [Leetcode Boilerplate Generator](https://github.com/2sjha/leetcode-boilerplate-generator), written in Rust, automatically generates boilerplate code for Leetcode problems using example inputs and outputs, enabling local debugging without relying on the website's paywalled debugger.
 #### [Khwish](https://gist.github.com/2sjha/b9012f396290bf3b8ebfc2b89fcd01c4) - A Community Funding Platform consisting of an [Anroid app](https://github.com/2sjha/khwish-app), a [React website](https://github.com/2sjha/khwish-web), and a [Spring Boot backend](https://github.com/2sjha/khwish-backend).
+#### [ML Projects](https://github.com/2sjha/ML-Projects) including Naive Bayes, Hyper-parameter tuning for Tree based classifiers, Collaborative Filtering, K-means clustering and Random Forest.
 #### [Mini P2P File Sharing application](https://github.com/2sjha/mini-p2p-file-sharing) written in C++. All peers communicate via TCP sockets, support searching for files via keyword & filenames. 
 #### [Simulated OS](https://github.com/2sjha/sim-os-rs) written in Rust. The Sim-OS has a round robin scheduler and a simulated printer connected via TCP socket. This was a [CS5348 OS course project, originally written in C](https://github.com/2sjha/sim-os).
-#### [Data Structure and Algorithm problems](https://github.com/2sjha/ds-a) I've solved. Prominently [Grind-75](https://www.techinterviewhandbook.org/grind75) problemset.
+#### [Data Structure and Algorithm problems](https://github.com/2sjha/ds-a) I've solved. Prominently [Grind-75](https://www.techinterviewhandbook.org/grind75) problemset and some more.
 <br>
 
 ### Technical Skills <hr>
